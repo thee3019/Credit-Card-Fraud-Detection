@@ -1,4 +1,4 @@
-# Projects
+# Credit card Fraud Detection
 
 This is a project on Credit card Fraud Detection. The code evaluates the best fraud detection using 3 models-
 Gradient Booster Tree Classifier, Decision Tree Classifier and Logistics regression using 
